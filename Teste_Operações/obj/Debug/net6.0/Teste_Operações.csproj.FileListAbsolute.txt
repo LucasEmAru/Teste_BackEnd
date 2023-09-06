@@ -1,0 +1,22 @@
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\bin\Debug\net6.0\Teste_Operações.deps.json
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\bin\Debug\net6.0\Teste_Operações.dll
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\bin\Debug\net6.0\Teste_Operações.pdb
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\obj\Debug\net6.0\Teste_Operações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\obj\Debug\net6.0\Teste_Operações.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\obj\Debug\net6.0\Teste_Operações.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\obj\Debug\net6.0\Teste_Operações.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\obj\Debug\net6.0\Teste_Operações.dll
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\obj\Debug\net6.0\refint\Teste_Operações.dll
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\obj\Debug\net6.0\Teste_Operações.pdb
+C:\Users\ADMIN\OneDrive\Área de Trabalho\FS18_API_Chapter\Teste_Operações\obj\Debug\net6.0\ref\Teste_Operações.dll
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\bin\Debug\net6.0\Teste_Operações.deps.json
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\bin\Debug\net6.0\Teste_Operações.dll
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\bin\Debug\net6.0\Teste_Operações.pdb
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\obj\Debug\net6.0\Teste_Operações.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\obj\Debug\net6.0\Teste_Operações.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\obj\Debug\net6.0\Teste_Operações.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\obj\Debug\net6.0\Teste_Operações.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\obj\Debug\net6.0\Teste_Operações.dll
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\obj\Debug\net6.0\refint\Teste_Operações.dll
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\obj\Debug\net6.0\Teste_Operações.pdb
+C:\Users\ADMIN\OneDrive\Área de Trabalho\Teste Back End\Teste_Operações\obj\Debug\net6.0\ref\Teste_Operações.dll
